@@ -1,7 +1,8 @@
 """
-main.py
-Entry point for the Python Quiz Game.
-Ensures the database exists, then launches the GUI.
+ENTRY POINT OF THE PROJECT
+Run this file to start the application.
+This project also requires gui.py, quiz_engine.py, and db_setup.py.
+Please keep all project files in the same folder while testing
 """
 
 import os
